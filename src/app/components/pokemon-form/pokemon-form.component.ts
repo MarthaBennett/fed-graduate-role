@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+/*import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-pokemon-form',
@@ -14,4 +14,4 @@ export class PokemonFormComponent implements OnInit {
 
   ngOnInit(): void { }
 
-}
+}*/
